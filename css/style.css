@@ -253,7 +253,12 @@ body { height: 100%; }
             transform: translate(0, -100%);
 }
 #page3 > .bg { background: url("../images/p3_bg.jpg") no-repeat center center; background-size: 100%; }
-#page3 > .p3_logo { width: 34.6875vw; height: 6.327vh; position: absolute; top: 7.82vh; right: 0; left: 0; margin: auto; background: url("../images/p3_logo.png") no-repeat center center; background-size: 100%; }
+#page3 > .p3_logo { width: 34.6875vw; height: 6.327vh; position: absolute; top: 7.82vh; right: 23vw; left: 0; margin: auto; 
+    // background: url("../images/guangxiao.png") no-repeat center center; 
+    // background-size: 100%;
+    color: #fff;
+    font-size: 5vh;
+}
 #page3 > .p3_title { width: 48.125vw; height: 50vh; position: absolute; top: 21vh; right: 0; left: 0; margin: auto; background: url("../images/p3_title.png") no-repeat center center; background-size: 100%; }
 #page3 > .p3_second { width: 22.8125vw; height: 41.652vh; position: absolute; top: 25.48vh; left: 3.75vw; background: url("../images/p3_couplet_second.png") no-repeat center center; background-size: 100%; }
 #page3 > .p3_first { width: 22.8125vw; height: 41.652vh; position: absolute; top: 25.48vh; right: 3.75vw; background: url("../images/p3_couplet_first.png") no-repeat center center; background-size: 100%; }
